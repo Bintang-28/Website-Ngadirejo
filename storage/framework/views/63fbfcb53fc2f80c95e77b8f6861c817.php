@@ -1,0 +1,1 @@
+<img <?php echo e($attributes); ?> src="<?php echo e(asset('images/logokabmadiun.png')); ?>" alt="Logo Desa Anda"><?php /**PATH X:\hasil coding\Web-Project-KKN-Ngadirejo\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
